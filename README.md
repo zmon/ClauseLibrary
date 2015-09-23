@@ -1,1 +1,1 @@
-# Nonprofit Clauses
+# Clauses
